@@ -40,7 +40,7 @@ var formatter_word1 = word1.substring(0, 1).toUpperCase() + word1.substring(1, 1
 var formatter_word2 = word2.substring(0, 1).toUpperCase() + word2.substring(1, 8).toLowerCase()
 
 var formatter_str6 = formatter_word1 + formatter_word2;
-console.log(formatter_str6);
+// console.log(formatter_str6);
 
 
 
